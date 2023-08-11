@@ -11,4 +11,6 @@ This repository contains a project created to retrieve metadata of NFTs on the A
 7.  By using a common ABI, interacted with various NFT contracts without needing to know their specific ABIs.
 
  API endpoint => https://nft-metadataservice-avalanche.uc.r.appspot.com/meta-data?contractAddress={CONTRACT_ADDRESS_OF_AVALANCHE_NFT}&tokenID={TOKEN_ID}
+
+ example => https://nft-metadataservice-avalanche.uc.r.appspot.com/meta-data?contractAddress=0xA0219742881Ca333657fD1873e25F5CC15EdBEab&tokenID=1
    
